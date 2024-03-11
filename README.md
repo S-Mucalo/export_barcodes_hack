@@ -4,8 +4,11 @@ From the UC Jaggaer Stocktake - Scan Functions quick user guide:
 
 
 > Generate Barcodes for Sublocation:
+
 > 4. Under Locations, go manage sub locations
+
 > 5. Select the desired room and select export sublocations
+
 > 6. Convert sublocation barcode coulmn "xxxxx" into barcodes using __external application__
 
 This script is one option for the external application to generate a pdf of the sublocation barcodes.
